@@ -5,13 +5,7 @@ import React, { useState } from "react";
 // Configura la conexión con Firebase
 const firebaseConfig = {
     // Tu configuración de Firebase aquí
-    apiKey: "AIzaSyDNeoa0YJDZwvVBKTM_HjIWlFHf7OX5Jmc",
-    authDomain: "ejemplo1-ef966.firebaseapp.com",
-    projectId: "ejemplo1-ef966",
-    storageBucket: "ejemplo1-ef966.appspot.com",
-    messagingSenderId: "914038583484",
-    appId: "1:914038583484:web:ae9fbe10bb43ed594260b9",
-    measurementId: "G-FG1XH1271L",
+
 };
 
 const app = initializeApp(firebaseConfig);
